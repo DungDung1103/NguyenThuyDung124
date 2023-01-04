@@ -44,6 +44,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/PTPM/NguyenThuyDung124/Views/NTD0124/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlREMDEyNFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/NguyenThuyDung124/Views/NTD0124/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlREMDEyNFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/NguyenThuyDung124/Views/NTD0124/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlREMDEyNFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/NguyenThuyDung124/Views/NTD0124/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlREMDEyNFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PTPM/NguyenThuyDung124/Views/NTD0124/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlREMDEyNFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PTPM/NguyenThuyDung124/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

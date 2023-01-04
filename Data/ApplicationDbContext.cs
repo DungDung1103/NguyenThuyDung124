@@ -13,4 +13,6 @@ using NguyenThuyDung124.Models;
         }
 
         public DbSet<NguyenThuyDung124.Models.CompanyNTD124> CompanyNTD124 { get; set; } = default!;
+
+        public DbSet<NguyenThuyDung124.Models.NTD0124> NTD0124 { get; set; } = default!;
     }

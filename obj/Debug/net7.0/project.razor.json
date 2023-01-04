@@ -16555,6 +16555,11 @@
   "RootNamespace": "NguyenThuyDung124",
   "Documents": [
     {
+      "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\NTD0124\\Create.cshtml",
+      "TargetPath": "Views\\NTD0124\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16575,6 +16580,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\NTD0124\\Edit.cshtml",
+      "TargetPath": "Views\\NTD0124\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\CompanyNTD124\\Details.cshtml",
       "TargetPath": "Views\\CompanyNTD124\\Details.cshtml",
       "FileKind": "mvc"
@@ -16582,6 +16592,16 @@
     {
       "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\NTD0124\\Index.cshtml",
+      "TargetPath": "Views\\NTD0124\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\NTD0124\\Delete.cshtml",
+      "TargetPath": "Views\\NTD0124\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16602,6 +16622,11 @@
     {
       "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\CompanyNTD124\\Edit.cshtml",
       "TargetPath": "Views\\CompanyNTD124\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\PTPM\\NguyenThuyDung124\\Views\\NTD0124\\Details.cshtml",
+      "TargetPath": "Views\\NTD0124\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
